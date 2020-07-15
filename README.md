@@ -1,4 +1,4 @@
-![/githubbanner.svg]()
+![githubbanner.svg](Banner)
 
 ### Hi!
 

@@ -1,4 +1,4 @@
-![githubbanner.svg](Banner)
+![https://raw.githubusercontent.com/JulianFun123/JulianFun123/master/githubbanner.svg](Banner)
 
 ### Hi!
 
